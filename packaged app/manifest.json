@@ -24,6 +24,8 @@
     "power",
     "webview",
     "alwaysOnTopWindows",
-    "storage"
+    "storage",
+    "audioCapture",
+    "videoCapture"
   ]
 }
