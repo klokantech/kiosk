@@ -26,6 +26,7 @@
     "alwaysOnTopWindows",
     "storage",
     "audioCapture",
-    "videoCapture"
+    "videoCapture",
+    "https://plus.google.com/hangouts/*"
   ]
 }
